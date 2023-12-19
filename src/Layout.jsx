@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Sidebar from './components/Layout/Sidebar'
 const Back = styled.div`
-  background-color: #4d44b5;
+  background-color: #013701;
   display: flex;
   min-height: 100vh;
 `
