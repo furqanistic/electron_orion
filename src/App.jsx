@@ -7,6 +7,7 @@ import Event from './pages/Event'
 import Finance from './pages/Finance'
 import Chat from './pages/Chat'
 import Activity from './pages/Activity'
+import Teachers from './pages/Teacher'
 const App = () => {
   return (
     <BrowserRouter>
@@ -14,6 +15,7 @@ const App = () => {
         <Route index element={<Dashboard />} />
         <Route path='students' element={<Students />} />
         <Route path='users' element={<User />} />
+        <Route path='teachers' element={<Teachers />} />
         <Route path='events' element={<Event />} />
         <Route path='finances' element={<Finance />} />
         <Route path='chats' element={<Chat />} />

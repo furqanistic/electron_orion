@@ -1,7 +1,8 @@
 import React from 'react'
+import Layout from '../Layout'
 
 const Event = () => {
-  return <div>Event</div>
+  return <Layout>Event</Layout>
 }
 
 export default Event
