@@ -5,10 +5,8 @@ import styled from 'styled-components'
 
 const Wrap = styled.div`
   display: flex;
-  justify-content: center;
-  align-items: center;
-  /* background-color: red; */
-  padding: 1rem;
+
+  padding-top: 1.5rem;
 `
 const DashSchoolPerfomance = () => {
   return (
