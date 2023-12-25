@@ -14,8 +14,8 @@ import { Link, useLocation, useNavigate } from 'react-router-dom'
 import styled from 'styled-components'
 import Logo from '/icons/logo.png'
 const Bar = styled.div`
-  /* background: rgb(37, 38, 95); */
-  /* background: linear-gradient(
+  /* background: rgb(37, 38, 95);
+  background: linear-gradient(
     153deg,
     rgba(37, 38, 95, 1) 58%,
     rgba(58, 169, 51, 1) 96%

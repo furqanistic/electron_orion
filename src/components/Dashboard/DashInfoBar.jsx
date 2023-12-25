@@ -11,7 +11,7 @@ const InfoBar = styled.div`
 const Title = styled.p`
   font-size: 2.5rem;
   font-weight: 600;
-  color: white;
+  color: #3aa933;
   text-transform: uppercase;
   padding-top: 1rem;
 `
